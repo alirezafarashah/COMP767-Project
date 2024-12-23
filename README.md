@@ -1,4 +1,4 @@
-# README
+# Unlearning Geo-Cultural Stereotypes in Multilingual LLMs
 
 ## Abstract
 As generative multilingual models become more widely used, most safety and fairness evaluations still focus on English-language resources, overlooking important cross-cultural factors. This limitation introduces issues of fairness and safety, particularly regarding Geo-Culturally Situated Stereotypes. In this work, we investigate debiasing methods aimed at unlearning these stereotypes by leveraging techniques such as gradient ascent (GA).
